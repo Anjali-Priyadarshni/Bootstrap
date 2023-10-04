@@ -1,0 +1,21 @@
+
+.style{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+body {
+    background-color: gray;
+}
+ 
+.slick-slide img {
+    margin-top: 5%;
+    margin-inline-start: 25%;
+    width: 50%;
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+
